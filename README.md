@@ -229,6 +229,4 @@ POST /api/generate            → { "success": true, "files": [...] }
         └───────────┘ └───────────┘ └───────────┘
 ```
 
-## License
 
-MIT
